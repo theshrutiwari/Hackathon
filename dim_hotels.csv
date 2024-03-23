@@ -1,0 +1,26 @@
+property_id,property_name,category,city
+16558,GDS Grands,Luxury,Delhi
+16559,GDS Exotica,Luxury,Mumbai
+16560,GDS City,Business,Delhi
+16561,GDS Blu,Luxury,Delhi
+16562,GDS Bay,Luxury,Delhi
+16563,GDS Palace,Business,Delhi
+17558,GDS Grands,Luxury,Mumbai
+17559,GDS Exotica,Luxury,Mumbai
+17560,GDS City,Business,Mumbai
+17561,GDS Blu,Luxury,Mumbai
+17562,GDS Bay,Luxury,Mumbai
+17563,GDS Palace,Business,Mumbai
+18558,GDS Grands,Luxury,Hyderabad
+18559,GDS Exotica,Luxury,Hyderabad
+18560,GDS City,Business,Hyderabad
+18561,GDS Blu,Luxury,Hyderabad
+18562,GDS Bay,Luxury,Hyderabad
+18563,GDS Palace,Business,Hyderabad
+19558,GDS Grands,Luxury,Bangalore
+19559,GDS Exotica,Luxury,Bangalore
+19560,GDS City,Business,Bangalore
+19561,GDS Blu,Luxury,Bangalore
+19562,GDS Bay,Luxury,Bangalore
+19563,GDS Palace,Business,Bangalore
+17564,GDS Seasons,Business,Mumbai
