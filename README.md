@@ -3,7 +3,7 @@ Our project aims to leverage data analytics to empower GDS Grands with actionabl
 The contents of our project are :
 GDS.GROUP_dashboard : That contains GDS groups Data analytics dashboard
 data_transformation of GDS Grand : Contains Jupyter Notebook 
-\n The below csv files contains the datasets:
+The below csv files contains the datasets:
 Detailed bookings
 dim_date
 dim_hotels
